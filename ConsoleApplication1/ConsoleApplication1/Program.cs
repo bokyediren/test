@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             // some changes here
 
             // another change here
+
+            // third change
         }
     }
 }
