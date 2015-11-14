@@ -15,6 +15,8 @@ namespace ConsoleApplication1
             // another change here
 
             // third change
+
+            // feature 1.1 change
         }
     }
 }
